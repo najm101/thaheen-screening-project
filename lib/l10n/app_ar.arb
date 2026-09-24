@@ -1,0 +1,76 @@
+{
+  "@@locale": "ar",
+  "appTitle": "Thaheen",
+  "coursesTitle": "دوراتي",
+  "searchHint": "ابحث عن دورة أو مدرّب",
+  "continueWatching": "تابع المشاهدة",
+  "lessonCount": "{count, plural, =0{لا توجد دروس} =1{درس واحد} =2{درسان} few{{count} دروس} many{{count} درسًا} other{{count} درس}}",
+  "@lessonCount": {
+    "placeholders": {
+      "count": {"type": "int", "format": "decimalPattern"}
+    }
+  },
+  "percentComplete": "{percent}٪ مكتمل",
+  "@percentComplete": {
+    "placeholders": {
+      "percent": {"type": "int", "format": "decimalPattern"}
+    }
+  },
+  "noCoursesTitle": "لا توجد دورات بعد",
+  "noCoursesBody": "ستظهر دوراتك هنا فور إضافتها.",
+  "noResultsTitle": "لا توجد نتائج",
+  "noResultsBody": "لم نعثر على دورات تطابق «{query}».",
+  "@noResultsBody": {
+    "placeholders": {
+      "query": {"type": "String"}
+    }
+  },
+  "loadErrorTitle": "تعذّر تحميل الدورات",
+  "loadErrorBody": "حدث خطأ أثناء قراءة بيانات الدورات. حاول مرة أخرى.",
+  "retry": "إعادة المحاولة",
+  "back": "رجوع",
+  "courseNotFoundTitle": "الدورة غير موجودة",
+  "courseNotFoundBody": "ربما حُذفت هذه الدورة أو تغيّر رابطها.",
+  "lessonNotFoundTitle": "الدرس غير موجود",
+  "lessonNotFoundBody": "ربما حُذف هذا الدرس أو تغيّر رابطه.",
+  "pageNotFoundTitle": "الصفحة غير موجودة",
+  "goHome": "العودة إلى الدورات",
+  "emptyCourseTitle": "لا توجد دروس بعد",
+  "emptyCourseBody": "لم تُضف دروس إلى هذه الدورة حتى الآن.",
+  "emptySection": "لا توجد دروس في هذا القسم بعد.",
+  "statusNotStarted": "لم يبدأ",
+  "statusInProgress": "قيد المشاهدة",
+  "statusCompleted": "مكتمل",
+  "statusLocked": "مقفل",
+  "lessonInProgress": "قيد المشاهدة · {percent}٪",
+  "@lessonInProgress": {
+    "placeholders": {
+      "percent": {"type": "int", "format": "decimalPattern"}
+    }
+  },
+  "lockedLessonTitle": "هذا الدرس مقفل",
+  "lockedLessonBody": "أكمل الدرس السابق أولًا لفتحه.",
+  "nextLesson": "الدرس التالي",
+  "courseFinished": "أحسنت! أكملت جميع دروس هذه الدورة.",
+  "lessonCompleted": "أكملت هذا الدرس",
+  "resumedFrom": "متابعة من {time}",
+  "@resumedFrom": {
+    "placeholders": {
+      "time": {"type": "String"}
+    }
+  },
+  "videoErrorTitle": "تعذّر تشغيل الفيديو",
+  "videoErrorBody": "ملف الفيديو مفقود أو تالف.",
+  "play": "تشغيل",
+  "pause": "إيقاف مؤقت",
+  "playbackSpeed": "سرعة التشغيل",
+  "enterFullscreen": "ملء الشاشة",
+  "exitFullscreen": "الخروج من ملء الشاشة",
+  "notesTitle": "ملاحظاتي",
+  "notesHint": "اكتب ملاحظاتك عن هذا الدرس…",
+  "switchLanguage": "English",
+  "appearance": "المظهر",
+  "themeSystem": "حسب النظام",
+  "themeLight": "فاتح",
+  "themeDark": "داكن"
+}

@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": "anatomy-101",
+      "title": { "ar": "مقدمة في التشريح", "en": "Introduction to Anatomy" },
+      "instructor": { "ar": "د. سارة", "en": "Dr. Sarah" },
+      "thumbnail": "assets/images/anatomy.jpg",
+      "sections": [
+        {
+          "id": "s1",
+          "title": { "ar": "الجهاز الهيكلي", "en": "The Skeletal System" },
+          "lessons": [
+            { "id": "l1", "title": { "ar": "العظام", "en": "Bones" }, "durationSec": 65, "video": "assets/videos/lesson1.mp4" },
+            { "id": "l2", "title": { "ar": "المفاصل", "en": "Joints" }, "durationSec": 65, "video": "assets/videos/lesson2.mp4" },
+            { "id": "l3", "title": { "ar": "الغضاريف", "en": "Cartilage" }, "durationSec": 65, "video": "assets/videos/lesson3.mp4" }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": { "ar": "الجهاز العضلي", "en": "The Muscular System" },
+          "lessons": [
+            { "id": "l4", "title": { "ar": "أنواع العضلات", "en": "Types of Muscle" }, "durationSec": 65, "video": "assets/videos/lesson1.mp4" },
+            { "id": "l5", "title": { "ar": "الانقباض العضلي", "en": "Muscle Contraction" }, "durationSec": 65, "video": "assets/videos/lesson2.mp4" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "physiology-101",
+      "title": { "ar": "أساسيات علم وظائف الأعضاء", "en": "Physiology Fundamentals" },
+      "instructor": { "ar": "د. أحمد", "en": "Dr. Ahmed" },
+      "thumbnail": "assets/images/physiology.jpg",
+      "sections": [
+        {
+          "id": "s1",
+          "title": { "ar": "القلب والدورة الدموية", "en": "The Heart and Circulation" },
+          "lessons": [
+            { "id": "l1", "title": { "ar": "تشريح القلب", "en": "Heart Anatomy" }, "durationSec": 65, "video": "assets/videos/lesson2.mp4" },
+            { "id": "l2", "title": { "ar": "الدورة القلبية", "en": "The Cardiac Cycle" }, "durationSec": 65, "video": "assets/videos/lesson3.mp4" }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": { "ar": "الجهاز التنفسي", "en": "The Respiratory System" },
+          "lessons": [
+            { "id": "l3", "title": { "ar": "آلية التنفس", "en": "Mechanics of Breathing" }, "durationSec": 65, "video": "assets/videos/lesson1.mp4" },
+            { "id": "l4", "title": { "ar": "تبادل الغازات", "en": "Gas Exchange" }, "durationSec": 65, "video": "assets/videos/lesson3.mp4" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pharmacology-101",
+      "title": { "ar": "مبادئ علم الأدوية", "en": "Principles of Pharmacology" },
+      "instructor": { "ar": "د. ليلى", "en": "Dr. Layla" },
+      "thumbnail": "assets/images/pharmacology.jpg",
+      "sections": []
+    },
+    {
+      "id": "biochemistry-101",
+      "title": { "ar": "الكيمياء الحيوية الطبية", "en": "Medical Biochemistry" },
+      "instructor": { "ar": "د. خالد", "en": "Dr. Khalid" },
+      "thumbnail": "assets/images/biochemistry.jpg",
+      "sections": [
+        {
+          "id": "s1",
+          "title": { "ar": "الجزيئات الحيوية", "en": "Biomolecules" },
+          "lessons": [
+            { "id": "l1", "title": { "ar": "البروتينات", "en": "Proteins" }, "durationSec": 65, "video": "assets/videos/lesson1.mp4" },
+            { "id": "l2", "title": { "ar": "الإنزيمات", "en": "Enzymes" }, "durationSec": 65, "video": "assets/videos/corrupt.mp4" }
+          ]
+        },
+        {
+          "id": "s2",
+          "title": { "ar": "الاستقلاب", "en": "Metabolism" },
+          "lessons": [
+            { "id": "l3", "title": { "ar": "تحلل الجلوكوز", "en": "Glycolysis" }, "durationSec": 65, "video": "assets/videos/lesson3.mp4" },
+            { "id": "l4", "title": { "ar": "دورة كريبس", "en": "The Krebs Cycle" }, "durationSec": 65, "video": "assets/videos/lesson2.mp4" }
+          ]
+        }
+      ]
+    }
+  ]
+}
