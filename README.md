@@ -6,7 +6,7 @@ The task asked for a video or an APK. I included both, plus a web demo:
 
 - **Android APK:** grab it from the [latest release](https://github.com/najm101/thaheen-screening-project/releases/latest).
 - **Video:** a screen recording from my iPhone, below. It shows the empty course and the corrupt video too.
-- **Web demo:** [najm101.github.io/thaheen-screening-project](https://najm101.github.io/thaheen-screening-project/). On desktop it opens inside an iPhone frame. (Heads up: some gestures might not work properly on the web.)
+- **Web demo:** [najm101.github.io/thaheen-screening-project](https://najm101.github.io/thaheen-screening-project/). On desktop it opens inside an iPhone frame. Heads up: it can be slow to launch, and slower when a lesson loads, since the videos download as whole files instead of streaming. Some gestures might not work properly on the web either.
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/431bf44c-3921-4880-8d4d-5b167fd5ff43" width="360" controls muted playsinline></video>
